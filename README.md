@@ -1,3 +1,4 @@
-# my-demo
-this is my first repository
-author = bishab kumar 
+# snake water and gun game
+this is my first project 
+my name is Bishab kumar 
+that it
